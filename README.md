@@ -35,13 +35,13 @@
 ###
 
 <div align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=joaopedrorori&theme=github_dark&show_icons=true&hide_border=true"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaopedrorori&theme=github_dark&show_icons=true&hide_border=true"  />
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopedrorori&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2&custom_title=Languages%20I%20Most%20Use" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">Talk to me!</h2>
 
 ###
 
@@ -49,14 +49,15 @@
   <a href="https://www.linkedin.com/in/joao-pedro-rodrigues-ribeiro-32183a225/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <a href="joaopedrorr.df@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/JoaoPRRibeiro" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/joaopedrorori/joaopedrorori/output/snake.svg" alt="Snake animation" />
-
-###
-
 <!--
 **joaopedrorori/joaopedrorori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
