@@ -4,8 +4,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaopedrorori&theme=gotham&show_icons=true&hide_border=true"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopedrorori&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=true&order=2&custom_title=Languages%20I%20Most%20Use" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaopedrorori&theme=github_dark&show_icons=true&hide_border=true"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopedrorori&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2&custom_title=Languages%20I%20Most%20Use" height="150" alt="languages graph"  />
 </div>
 
 ###
