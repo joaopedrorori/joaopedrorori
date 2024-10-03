@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">👋 Hi!<br>🧑🏻 I'm Joao Pedro, from Brazil 🇧🇷, a developer👨🏻‍💻 in training. <br>👨🏼‍🎓 At this moment, I'm in the university, studying "Technology and Systems for the Internet" at Instituto Federal de Brasília. <br>🎯My goals to the  future are to be the best programer I can for one day work for foreign companies. The thing I most like is prototype and code my site from the 0 to the absolute finish.<br><br>- Front-end (future fullstack) developer.<br>- UI/UX Designer<br>- Databases enthusiast</p>
+<p align="left">EN-US👋 Hi!<br>🧑🏻 I'm Joao Pedro, from Brazil 🇧🇷, a developer👨🏻‍💻 in training. <br>👨🏼‍🎓 At this moment, I'm in the university, studying "Technology and Systems for the Internet" at Instituto Federal de Brasília. <br>🎯My goals to the  future are to be a versatil programer, who can program with a variety of languages, and work for foreign companies. The thing I most like is prototype and code my site from the 0 to the absolute finish.<br><br>- Front-end (future fullstack) developer.<br>- UI/UX Designer<br>- Databases enthusiast</p>
+<br>
+<p align="left">PT-BT👋 Olá!<br>🧑🏻 Eu sou João Pedro, de Brasília, um desenvolvedor👨🏻‍💻 em formação. <br>👨🏼‍🎓 No momento estou na universidade, cursando "Tecnologia e Sistemas para Internet" no Instituto Federal de Brasília. <br>🎯Minhas metas para o futuro são ser um programador versátil, com entendimento de diversas linguagens, e trabalhar em empresas estrangeiras. A coisa que eu mais gosto de fazer é desenvolvevor um sistema desde o protótipo até o fim absoluto do mesmo.<br><br>- Front-end (futuramente fullstack) developer.<br>- UI/UX Designer<br>- Entusiasta de Banco de Dados</p>
 
 ###
 
